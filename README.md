@@ -7,9 +7,12 @@
 개발 시작 : 2020.04.21 ~
 
 ## App Icon
-<img src="images/app-icon.png" width="200px">
+<img src="images/app-icon.png" width="200px" alt="앱 아이콘">
 
 현재 구글 플레이 스토어에 출시했고, 출시 검토를 받고 있는 중입니다.
+
+## 실행화면
+<img src="images/app-screenshot.gif" width="300px" alt="실행화면">
 
 ## 기능
 - 대구시 내 병원 22곳에 대한 정보를 '권역응급 의료센터', '지역응급 의료센터', '지역응급 의료기관', '지역응급의료시설'로 분류하여 보여줍니다.
