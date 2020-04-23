@@ -1,0 +1,27 @@
+name: hospitalindaegu
+description: 대구 지역에 있는 병원 정보를 모아둡니다.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  url_launcher: ^3.0.3
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: UhBee Se_hyun Bold
+      fonts:
+        - asset: fonts/UhBeeSe_hyun_Bold.ttf
+    - family: SN BeolBeolJeongJik
+      fonts:
+        - asset: fonts/SN_BeolBeolJeongJik.ttf
