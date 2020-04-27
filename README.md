@@ -9,7 +9,8 @@
 ## App Icon
 <img src="images/app-icon.png" width="200px" alt="앱 아이콘">
 
-현재 구글 플레이 스토어에 출시했고, 출시 검토를 받고 있는 중입니다.
+현재 구글 플레이 스토어에 출시했고, 2020년 4월 27일 출시 완료되어 구글 플레이 스토어에 게시되었습니다.
+https://play.google.com/store/apps/details?id=com.yunseoh68.hospitalindaegu
 
 ## 실행화면
 <img src="images/app-screenshot.gif" width="300px" alt="실행화면">
